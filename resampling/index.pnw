@@ -6,6 +6,8 @@ Resampling
 from commoncode.index_builder import create_toctree
 @
 
+These are notes I'm taking on resampling. The first source is `Introductory Statistics with Randomization and Simulation <https://www.openintro.org/stat/?stat_book=isrs>`_.
+
 <<name='toctree', echo=False, results='sphinx'>>=
 create_toctree()
 @
