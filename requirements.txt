@@ -1,6 +1,6 @@
 Babel==2.1.1
 Bottleneck==1.0.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==0.23
 Pweave==0.23
 Pygments==2.0.2
